@@ -28,4 +28,4 @@ while True:
     else:
         print("El RUT ingresado no se encuentra registrado.")
 
-print("Personas que quedaron deudoras y sus respectivos saldos de deuda:",deudores)
+print("Personas que quedaron debiendo y sus deudas a pagar:",deudores)
